@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'BearTest_Example' do
+  pod 'BearTest', :path => '../'
+
+  target 'BearTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

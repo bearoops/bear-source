@@ -1,0 +1,16 @@
+PODS:
+  - BearTest (0.1.0)
+
+DEPENDENCIES:
+  - BearTest (from `../`)
+
+EXTERNAL SOURCES:
+  BearTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BearTest: 366aa169fdf3aae2dd98fee22fc65943c7d4fcad
+
+PODFILE CHECKSUM: dd307b6d40e6e417e722e6d7420bf5b9408433bf
+
+COCOAPODS: 1.14.3

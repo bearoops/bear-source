@@ -1,0 +1,6 @@
+framework module BearTest {
+  umbrella header "BearTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
