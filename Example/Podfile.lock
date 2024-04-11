@@ -1,5 +1,5 @@
 PODS:
-  - BearTest (0.1.0)
+  - BearTest (0.1.2)
 
 DEPENDENCIES:
   - BearTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BearTest: 366aa169fdf3aae2dd98fee22fc65943c7d4fcad
+  BearTest: 25db5df8c6a05fdccaa42ce6644f084275ae6faa
 
 PODFILE CHECKSUM: dd307b6d40e6e417e722e6d7420bf5b9408433bf
 
